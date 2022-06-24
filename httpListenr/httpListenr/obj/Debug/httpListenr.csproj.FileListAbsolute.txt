@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.Form1.resources
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.Properties.Resources.resources
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\httpListenr.exe.config
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\httpListenr.exe
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\httpListenr.pdb
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.exe
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.pdb
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\obj\Debug\httpListenr.csproj.CopyComplete
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\Spire.License.dll
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\source\repos\httpListenr\httpListenr\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
